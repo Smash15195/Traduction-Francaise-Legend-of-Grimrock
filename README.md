@@ -18,6 +18,9 @@ Traduction Française Legend of Grimrock  (Almost Human Games)
 V1 : Rien n'est moins sûr.
 ```
 
+### Images des essais en cours
+![image1](http://img4.hostingpics.net/pics/2300272012071400005.jpg)
+
 ### Windows
 
 Téléchargement (si disponible) dans la section Download.
