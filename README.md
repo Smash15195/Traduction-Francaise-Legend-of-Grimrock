@@ -19,7 +19,7 @@ V1 : Rien n'est moins sûr.
 ```
 
 ### Images des essais en cours
-![image1](http://img4.hostingpics.net/pics/2300272012071400005.jpg)
+![image1](<a href="http://www.hostingpics.net/viewer.php?id=2300272012071400005.jpg"><img src="http://img4.hostingpics.net/thumbs/mini_2300272012071400005.jpg" alt="Upload images" /></a>)
 
 ### Windows
 
